@@ -775,7 +775,7 @@ h4 {
 }
 
 .tc-white {
-    color: white !important;
+    color: #F3976C!important;
 }
 
 .btn-atomic-tangerine {
@@ -1032,26 +1032,6 @@ h4 {
     .bloc {
         padding-left: 0;
         padding-right: 0;
-    }
-
-    .portfolio-thumb {
-        margin-top: 50px;
-        width: 100%;
-    }
-    
-    .portfolio-row {
-        margin-bottom: 0px;
-        margin-top: 0px;
-    }
-
-    .social {
-        display: flex;
-        justify-content: space-evenly;
-        width: 100%;
-    }
-
-    .partenaires {
-        display: none;
     }
 }
 
